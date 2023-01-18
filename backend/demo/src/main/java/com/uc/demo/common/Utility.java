@@ -6,7 +6,7 @@ import java.security.SecureRandom;
 
 public class Utility {
 
-	public static long generateOTP() {
+	public static long generateRandomNo() {
 		
 		 SecureRandom random = new SecureRandom();
 			return (100000 + random.nextInt(900000));
