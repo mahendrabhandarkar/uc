@@ -10,7 +10,7 @@ Eureka Discovery and Eureka Server - It will tell which server is up and which s
 API Gateway - Spring.cloud.starter.gateway, spring.boot.starter.actuator - Port Management - All services in single portal.
 Spring thymeleaf - For Web and Standalone application UI.
 Aspect Programming - For Microservices.
-Circuit Breaker - 
+Circuit Breaker - - Breaking code message display. - Resilence CIrcuit Breaker API - resilience4j-circuitbreaker api
 Spring 5 WebClient - 
 
 Eureka, Ribbon, Hysterix, Zuul - 
