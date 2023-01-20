@@ -39,10 +39,11 @@ public class DemoApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		logger.info("UrbanClap application started---");
+		logger.info("---UrbanClap application started---");
 		logger.info("UrbanClap Info level log message");
 		logger.debug("UrbanClap Debug level log message");
 		logger.error("UrbanClap Error level log message");
+		logger.info("---UrbanClap application end---");
 	}
 	
 	@GetMapping("/courses")

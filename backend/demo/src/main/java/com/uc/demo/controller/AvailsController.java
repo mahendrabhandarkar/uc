@@ -3,6 +3,7 @@ package com.uc.demo.controller;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.EnableAspectJAutoProxy;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -19,11 +20,10 @@ import org.apache.logging.log4j.Logger;
 
 @RestController
 @RequestMapping("/avails")
+@EnableAspectJAutoProxy(proxyTargetClass=true)
 public class AvailsController {
 	@Autowired
 	AvailsService availsService;
-	
-	private static final Logger logger = LogManager.getLogger(AvailsController.class);
 	
 	@RequestMapping(value="/availability", method=RequestMethod.POST)
 	public Avails createAvailability(@RequestBody Avails av) {
@@ -32,7 +32,6 @@ public class AvailsController {
 	
 	@RequestMapping(value="/availability", method=RequestMethod.GET)
 	public List<Avails> readEmployees() {
-		logger.info("Welcome to UrbanController");
 	    return availsService.getAvailability();
 	}
 
