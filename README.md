@@ -17,7 +17,7 @@ Load Balancing -
 Java Web Toolkit [JWT] - For Configuration token system for APIs.
 Spring Security - For Role based access - By default Login page is displayed [username: user, password: user] - You will get in log.
 
-Eureka, Ribbon, Hysterix, Zuul - 
+Netflix Eureka Server, Eureka Discovery Client, Ribbon, Hysterix, Zuul - 
 
 Swagger, Kafka, MakerChecker, ReactWeb - Start Youtube channel for Springboot teaching.
 https://spring.io/projects/spring-cloud
