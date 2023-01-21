@@ -31,4 +31,6 @@ https://www.javaguides.net/2022/10/spring-boot-microservices-spring-cloud-api-ga
 
 Project Reactor Java API uses Publisher & Subscriber Model - Springboot React Programming [has Back Pressure Support advantage] - Flux [For N Number of Objects] and Mono [For Single Object] - Java Stream API - https://www.youtube.com/watch?v=bXcFCgQsvAE
 
+Spring boot + Apache kafka using vertx - framework calls user code and user code calls libraries. Vertx comes as a large number of independent modules with vertx-core being the only critical, shared element among them - 
+
 Java Techie youtube channel - Start learning from there.
