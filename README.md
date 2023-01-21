@@ -11,7 +11,7 @@ API Gateway - Spring.cloud.starter.gateway, spring.boot.starter.actuator - Port 
 Spring thymeleaf - For Web and Standalone application UI.
 Aspect Programming - For Microservices - Example: For Making Generic API for Logger, etc
 Circuit Breaker - Breaking api call failure to message display - Resilence Circuit Breaker API - resilience4j-circuitbreaker api
-Spring 5 WebClient - For Calling another api inside api - Previously restTemplate was there but now WebClient is used.
+Spring 5 WebClient - For Calling another api inside api - Previously restTemplate was there but now WebClient is used. - https://github.com/spring-guides/getting-started-guides
 JUnit, Mockit, RestAssured - For Testing APIs.
 Load Balancing - 
 Java Web Toolkit [JWT] - For Configuration token system for APIs.
