@@ -30,3 +30,5 @@ https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using
 https://www.javaguides.net/2022/10/spring-boot-microservices-spring-cloud-api-gateway.html
 
 Project Reactor Java API uses Publisher & Subscriber Model - Springboot React Programming [has Back Pressure Support advantage] - Flux [For N Number of Objects] and Mono [For Single Object] - Java Stream API - https://www.youtube.com/watch?v=bXcFCgQsvAE
+
+Java Techie youtube channel - Start learning from there.
