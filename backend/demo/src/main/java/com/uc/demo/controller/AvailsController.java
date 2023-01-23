@@ -50,4 +50,10 @@ public class AvailsController {
      //   LOGGER.info("discount service called....");
         return "added discount 15%";
     }
+//  Code with WebClient refer: https://github.com/spring-guides/getting-started-guides
+//	@RequestMapping(value="availability/{availId}?custId={custId}", method=RequestMethod.GET)
+//	public Customer getCustomers(@PathVariable(value={"availId","custId") Integer Id)
+//	{
+//		
+//	}
 }
