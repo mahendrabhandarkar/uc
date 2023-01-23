@@ -9,11 +9,15 @@ https://www.youtube.com/watch?v=I7BTYi5augU&list=PL0zysOflRCen-GihOcm1hZfYAlwr63
 Eureka Discovery and Eureka Server - It will tell which server is up and which server is down.
 API Gateway - Spring.cloud.starter.gateway, spring.boot.starter.actuator - Port Management - All services in single portal.
 Spring thymeleaf - For Web and Standalone application UI.
-Aspect Programming - For Microservices.
-Circuit Breaker - - Breaking code message display. - Resilence CIrcuit Breaker API - resilience4j-circuitbreaker api
-Spring 5 WebClient - 
+Aspect Programming - For Microservices - Example: For Making Generic API for Logger, etc
+Circuit Breaker - Breaking api call failure to message display - Resilence Circuit Breaker API - resilience4j-circuitbreaker api
+Spring 5 WebClient - For Calling another api inside api - Previously restTemplate was there but now WebClient is used. - https://github.com/spring-guides/getting-started-guides
+JUnit, Mockit, RestAssured - For Testing APIs.
+Load Balancing - 
+Java Web Toolkit [JWT] - For Configuration token system for APIs.
+Spring Security - For Role based access - By default Login page is displayed [username: user, password: user] - You will get in log.
 
-Eureka, Ribbon, Hysterix, Zuul - 
+Netflix Eureka Server, Eureka Discovery Client, Ribbon, Hysterix, Zuul - 
 
 Swagger, Kafka, MakerChecker, ReactWeb - Start Youtube channel for Springboot teaching.
 https://spring.io/projects/spring-cloud
@@ -24,3 +28,9 @@ discovery-server - Eureka Server
 
 https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-webclient.html
 https://www.javaguides.net/2022/10/spring-boot-microservices-spring-cloud-api-gateway.html
+
+Project Reactor Java API uses Publisher & Subscriber Model - Springboot React Programming [has Back Pressure Support advantage] - Flux [For N Number of Objects] and Mono [For Single Object] - Java Stream API - https://www.youtube.com/watch?v=bXcFCgQsvAE
+
+Spring boot + Apache kafka using vertx - framework calls user code and user code calls libraries. Vertx comes as a large number of independent modules with vertx-core being the only critical, shared element among them - 
+
+Java Techie youtube channel - Start learning from there.
