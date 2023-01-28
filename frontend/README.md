@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+------------------------------------------------------------------------------------------------------------------------------------------https://create-react-app.dev/docs/getting-started - ReactJs Getting Started
+https://www.youtube.com/watch?v=LlvBzyy-558 - All Reacts Hooks - React Hooks Course - All React Hooks Explained
+
+props, state - State Management in React
+And Node Libraries for creating APIs.
+
+useState,
+useReducer,
+useEffect
+useRef - Used to manipulate dom element like document.getElementById()
+useLayoutEffect - called before useRef.
+useImperativeHandle - 
+useContext - context means collection of states. createContext
+useMemo - 
+useCallback - 
