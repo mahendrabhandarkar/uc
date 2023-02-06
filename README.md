@@ -34,3 +34,5 @@ Project Reactor Java API uses Publisher & Subscriber Model - Springboot React Pr
 Spring boot + Apache kafka using vertx - framework calls user code and user code calls libraries. Vertx comes as a large number of independent modules with vertx-core being the only critical, shared element among them - 
 
 Java Techie youtube channel - Start learning from there.
+
+Natural Learning processing example - https://www.youtube.com/playlist?list=PLK0V_H0fCvPjKcUPjdXNZ6k4LueCJjsBN
