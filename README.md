@@ -44,6 +44,6 @@ Natural Learning processing example - https://www.youtube.com/playlist?list=PLK0
 | OCR | Brain        |    Tesseract, Tess4j | https://www.youtube.com/watch?v=8_M9LaWE1Uc |
 | OpenCV | Eye        | OpenCV (Open Source Computer Vision Library)| https://www.youtube.com/watch?v=p-ooOHkJLFY |
 | Text to Speach [TTS] |   Mouth   |   FestivalTTS/ FreeTTS/ MaryTTS /Google Cloud    | https://www.youtube.com/watch?v=_8XstaraP9E|
-| Speach to Text [STT] |    Ear     |    Sphinx | |
+| Speach to Text [STT] |    Ear     |    Sphinx | https://www.youtube.com/watch?v=IAHH6-t9jK0 |
 | Speach to Text [STT] |       Ear   |    Alexa API | https://www.youtube.com/watch?v=Ff6n7KOBQt0 |
 | RPC [GRPC] |         |    open source RPC framework | https://www.youtube.com/watch?v=JFzAe9SvNaU&list=PLI5t0u6ye3FGXJMh5kU2RvN0xrul67p7R |
