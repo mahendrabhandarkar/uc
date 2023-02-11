@@ -35,6 +35,16 @@ Spring boot + Apache kafka using vertx - framework calls user code and user code
 
 Java Techie youtube channel - Start learning from there.
 
+--- Resilience4J - https://www.youtube.com/playlist?list=PL4TnYdea-xTLGklgQfWW8ZgpQXm8-FOHt <br />
+--- Apache Kafka - https://www.youtube.com/playlist?list=PL4TnYdea-xTI-vUWgIoaDQOpC4PlK31md <br />
+--- Redis - https://www.youtube.com/playlist?list=PL4TnYdea-xTI6N9GNvod1NDB_jUs5OMoO <br />
+--- Azure - https://www.youtube.com/playlist?list=PL4TnYdea-xTKqVwGI09Vm8jX9JA1QEAh8 <br />
+--- AWS - https://www.youtube.com/playlist?list=PL4TnYdea-xTJpaL2XigZ2ulcPyoRPjHAI <br />
+--- Docker Kubernetes - https://www.youtube.com/playlist?list=PL4TnYdea-xTJ-aXZ2_ZcV27ah4KNgS-uR <br />
+--- Docker Compose - https://www.youtube.com/playlist?list=PL4TnYdea-xTJ35eW6UbWAROBIp3KENejp <br />
+--- Spring boot + Angular - https://www.youtube.com/playlist?list=PL4TnYdea-xTLI6sC-K78PprPMD0RljCYh <br />
+--- How to use Model Mapper Spring boot - https://www.youtube.com/watch?v=n63g921Qdgk <br />
+
 Natural Learning processing example - https://www.youtube.com/playlist?list=PLK0V_H0fCvPjKcUPjdXNZ6k4LueCJjsBN
 | Tools  | Human  | Description | Link |
 | :------------ |:---------------:| -----:|-----:|
