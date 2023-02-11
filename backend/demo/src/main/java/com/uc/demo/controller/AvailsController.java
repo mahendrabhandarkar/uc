@@ -72,6 +72,7 @@ public class AvailsController {
 		return new RestTemplate();
 	}
 
+	// http://localhost:9191/actuator/health - To check api health or status of counters
 	@GetMapping("/create")
 	@CircuitBreaker(name=DEMO_SERVICE, fallbackMethod = "demoFallback")
 	public ResponseEntity<String> create(){
