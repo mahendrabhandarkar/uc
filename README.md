@@ -57,3 +57,12 @@ Natural Learning processing example - https://www.youtube.com/playlist?list=PLK0
 | Speach to Text [STT] |    Ear     |    Sphinx | https://www.youtube.com/watch?v=IAHH6-t9jK0 |
 | Speach to Text [STT] |       Ear   |    Alexa API | https://www.youtube.com/watch?v=Ff6n7KOBQt0 |
 | RPC [GRPC] |         |    open source RPC framework | https://www.youtube.com/watch?v=JFzAe9SvNaU&list=PLI5t0u6ye3FGXJMh5kU2RvN0xrul67p7R |
+
+REST Guide for Spring Boot - https://spring.io/guides/tutorials/rest/ [Must Read] <br />
+Spring Boot application starters - https://docs.spring.io/spring-boot/docs/current/reference/html/using.html
+com.googlecode.json-simple - 
+com.twilio.sdk - OTP sending API
+log4j 
+org.hibernate
+javax.xml.bind:jaxb-api
+Spring Cloud - 
