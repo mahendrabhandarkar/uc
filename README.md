@@ -60,3 +60,7 @@ Natural Learning processing example - https://www.youtube.com/playlist?list=PLK0
 
 https://github.com/trishagee/jb-stock-client - For Standalone Application [Use JavaFX] with Springboot <br />
 https://github.com/RamAlapure/JavaFXSpringBootApp  - For Standalone Application [Use JavaFX] with Springboot - Youtube <br />
+
+Sakila DB: https://dev.mysql.com/doc/sakila/en/sakila-installation.html
+Spring Data JPA Tutorial | Full In-depth Course : https://github.com/shabbirdwd53/Spring-Data-JPA-Tutorial - https://www.youtube.com/watch?v=XszpXoII9Sg
+Supported query method subject keywords - https://docs.spring.io/spring-data/commons/docs/current/reference/html/#repositories
