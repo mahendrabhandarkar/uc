@@ -61,6 +61,8 @@ Natural Learning processing example - https://www.youtube.com/playlist?list=PLK0
 https://github.com/trishagee/jb-stock-client - For Standalone Application [Use JavaFX] with Springboot <br />
 https://github.com/RamAlapure/JavaFXSpringBootApp  - For Standalone Application [Use JavaFX] with Springboot - Youtube <br />
 
-Sakila DB: https://dev.mysql.com/doc/sakila/en/sakila-installation.html
-Spring Data JPA Tutorial | Full In-depth Course : https://github.com/shabbirdwd53/Spring-Data-JPA-Tutorial - https://www.youtube.com/watch?v=XszpXoII9Sg - https://www.youtube.com/playlist?list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU
-Supported query method subject keywords - https://docs.spring.io/spring-data/commons/docs/current/reference/html/#repositories
+Sakila DB: https://dev.mysql.com/doc/sakila/en/sakila-installation.html <br />
+Spring Data JPA Tutorial | Full In-depth Course : https://github.com/shabbirdwd53/Spring-Data-JPA-Tutorial - https://www.youtube.com/watch?v=XszpXoII9Sg - https://www.youtube.com/playlist?list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU <br />
+Supported query method subject keywords - https://docs.spring.io/spring-data/commons/docs/current/reference/html/#repositories <br />
+axon framework spring boot - https://docs.axoniq.io/reference-guide/axon-framework/spring-boot-integration - https://www.youtube.com/watch?v=XolV-pKjVyA&list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU&index=3 <br />
+Reactive Programming in JAVA | Project Reactor Full Tutorial - https://www.youtube.com/watch?v=O26jhgk682Q&list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU&index=6 <br />
