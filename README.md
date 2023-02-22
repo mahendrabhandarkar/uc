@@ -66,3 +66,4 @@ Spring Data JPA Tutorial | Full In-depth Course : https://github.com/shabbirdwd5
 Supported query method subject keywords - https://docs.spring.io/spring-data/commons/docs/current/reference/html/#repositories <br />
 axon framework spring boot - https://docs.axoniq.io/reference-guide/axon-framework/spring-boot-integration - https://www.youtube.com/watch?v=XolV-pKjVyA&list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU&index=3 <br />
 Reactive Programming in JAVA | Project Reactor Full Tutorial - https://www.youtube.com/watch?v=O26jhgk682Q&list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU&index=6 - https://projectreactor.io/learn <br />
+https://www.baeldung.com/java-8-streams - Java 8 Streams <br />
