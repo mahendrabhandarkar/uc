@@ -67,3 +67,5 @@ Supported query method subject keywords - https://docs.spring.io/spring-data/com
 axon framework spring boot - https://docs.axoniq.io/reference-guide/axon-framework/spring-boot-integration - https://www.youtube.com/watch?v=XolV-pKjVyA&list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU&index=3 <br />
 Reactive Programming in JAVA | Project Reactor Full Tutorial - https://www.youtube.com/watch?v=O26jhgk682Q&list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU&index=6 - https://projectreactor.io/learn <br />
 https://www.baeldung.com/java-8-streams - Java 8 Streams <br />
+https://github.com/eugenp/tutorials/tree/master/testing-modules/load-testing-comparison - Performance Testing using Springboot Jmeter/Grinder/Gitlang <br />
+https://kaviddiss.medium.com/deep-learning-with-spring-boot-and-djl-757373e22abb - Deep Java Library to use  Machine Learning <br />
