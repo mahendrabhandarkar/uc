@@ -57,6 +57,7 @@ Natural Learning processing example - https://www.youtube.com/playlist?list=PLK0
 | Speach to Text [STT] |    Ear     |    Sphinx | https://www.youtube.com/watch?v=IAHH6-t9jK0 |
 | Speach to Text [STT] |       Ear   |    Alexa API | https://www.youtube.com/watch?v=Ff6n7KOBQt0 |
 | RPC [GRPC] |         |    open source RPC framework | https://www.youtube.com/watch?v=JFzAe9SvNaU&list=PLI5t0u6ye3FGXJMh5kU2RvN0xrul67p7R |
+| Deep Java Library | Machine Learning |    DJL | https://kaviddiss.medium.com/deep-learning-with-spring-boot-and-djl-757373e22abb |
 
 https://github.com/trishagee/jb-stock-client - For Standalone Application [Use JavaFX] with Springboot <br />
 https://github.com/RamAlapure/JavaFXSpringBootApp  - For Standalone Application [Use JavaFX] with Springboot - Youtube <br />
