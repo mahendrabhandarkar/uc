@@ -70,3 +70,13 @@ Reactive Programming in JAVA | Project Reactor Full Tutorial - https://www.youtu
 https://www.baeldung.com/java-8-streams - Java 8 Streams <br />
 https://github.com/eugenp/tutorials/tree/master/testing-modules/load-testing-comparison - Performance Testing using Springboot Jmeter/Grinder/Gitlang <br />
 https://kaviddiss.medium.com/deep-learning-with-spring-boot-and-djl-757373e22abb - Deep Java Library to use  Machine Learning <br />
+
+| Library  | POM Artifact  | Description | Link |
+| :------------ |:---------------:| -----:|-----:|
+| DRUL Library | | Role Based Access Control - Excel Based | |
+| SPRING CLOUD CONFIG |spring-cloud-config-server | Local Configuration Management via .properties file -- In Other projects need to use "spring-cloud-starter-config" artifact to do configuration based on .properties file | |
+| ZUUL |spring-cloud-starter-netflix-zuul | Cookie | |
+| Logstash Logback Encoder| logstash-logback-encoder| | |
+| OpenFeign| spring-cloud-starter-openfeign| | |
+| oauth2 | spring-boot-starter-oauth2-client | | We need to use "spring-boot-starter-oauth2-resource-server" in BE service while calling it in FE|
+| Spring Session | spring-session-core | | |
