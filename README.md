@@ -73,7 +73,7 @@ https://kaviddiss.medium.com/deep-learning-with-spring-boot-and-djl-757373e22abb
 
 | Library  | POM Artifact  | Description | Link |
 | :------------ |:---------------:| -----:|-----:|
-| DRUL Library | | Role Based Access Control - Excel Based | |
+| DRUL Library [i.e. Drools] | | Role Based Access Control - Excel Based | |
 | SPRING CLOUD CONFIG |spring-cloud-config-server | Local Configuration Management via .properties file -- In Other projects need to use "spring-cloud-starter-config" artifact to do configuration based on .properties file | |
 | ZUUL |spring-cloud-starter-netflix-zuul | Cookie | |
 | Logstash Logback Encoder| logstash-logback-encoder| | |
