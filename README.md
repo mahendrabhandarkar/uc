@@ -80,4 +80,8 @@ https://kaviddiss.medium.com/deep-learning-with-spring-boot-and-djl-757373e22abb
 | Logstash Logback Encoder| logstash-logback-encoder|  | |
 | OpenFeign| spring-cloud-starter-openfeign| It doesn't require complete implementation of api call. It help us to call api by just defining functionName, although restTemplate required full implementation of api call | |
 | oauth2 | spring-boot-starter-oauth2-client | | We need to use "spring-boot-starter-oauth2-resource-server" in BE service while calling it in FE. OAuth2 help us to define protocol which we are going to use while exchanging token. JWT is used for defining token structure and OAUTH2 is used for defining protocol used while exchange token data |
-
+|mapstruct| | For Converting DAO to Entity or vice-versa||
+|jasypt| |For Password Encryption| |
+|Spring Vault| |Spring Cloud Vault allows applications to access secrets stored in a Vault instance in a transparent way| |
+|mockMVC | | | |
+| Caching | | @Cacheable, @EnableCaching | |
