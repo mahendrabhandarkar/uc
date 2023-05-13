@@ -70,6 +70,7 @@ Reactive Programming in JAVA | Project Reactor Full Tutorial - https://www.youtu
 https://www.baeldung.com/java-8-streams - Java 8 Streams <br />
 https://github.com/eugenp/tutorials/tree/master/testing-modules/load-testing-comparison - Performance Testing using Springboot Jmeter/Grinder/Gitlang <br />
 https://kaviddiss.medium.com/deep-learning-with-spring-boot-and-djl-757373e22abb - Deep Java Library to use  Machine Learning <br />
+https://www.baeldung.com/java-binary-tree - Implementing Binary Search Tree in Spring boot - Knowledge Tree <br />
 
 | Library  | POM Artifact  | Description | Link |
 | :------------ |:---------------:| -----:|-----:|
