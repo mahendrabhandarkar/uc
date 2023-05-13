@@ -85,3 +85,4 @@ https://kaviddiss.medium.com/deep-learning-with-spring-boot-and-djl-757373e22abb
 |Spring Vault| |Spring Cloud Vault allows applications to access secrets stored in a Vault instance in a transparent way| |
 |mockMVC | | | |
 | Caching | | @Cacheable, @EnableCaching | |
+| Spring statemachine | spring-statemachine-core | For State Transition | For State Transition - We can add it with RBAC |
