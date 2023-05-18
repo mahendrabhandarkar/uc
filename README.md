@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=2i67Qhff_pI - Generating Java Entity Code using 
 | DRUL Library [i.e. Drools] | | Role Based Access Control - Excel Based | |
 | SPRING CLOUD CONFIG |spring-cloud-config-server | Local Configuration Management via .properties file -- In Other projects need to use "spring-cloud-starter-config" artifact to do configuration based on .properties file | |
 | ZUUL |spring-cloud-starter-netflix-zuul | Cookie | |
-| Spring Session | spring-session-core | | |
+| Spring Session | spring-session-core | Storing Session into db | |
 | Logstash Logback Encoder| logstash-logback-encoder|  | |
 | OpenFeign| spring-cloud-starter-openfeign| It doesn't require complete implementation of api call. It help us to call api by just defining functionName, although restTemplate required full implementation of api call | |
 | oauth2 | spring-boot-starter-oauth2-client | | We need to use "spring-boot-starter-oauth2-resource-server" in BE service while calling it in FE. OAuth2 help us to define protocol which we are going to use while exchanging token. JWT is used for defining token structure and OAUTH2 is used for defining protocol used while exchange token data |
@@ -90,3 +90,4 @@ https://www.youtube.com/watch?v=2i67Qhff_pI - Generating Java Entity Code using 
 | Spring statemachine | spring-statemachine-core | For State Transition | For State Transition - We can add it with RBAC [Spring Security] |
 | Spring REST Docs | | Replacement of Swagger | |
 | Spring Flo | | basic embeddable HTML5 visual builder for pipelines and simple graphs | |
+| Spring Integration |spring-boot-starter-integration | Implementation of most of the Enterprise Integration Patterns like sFTP, etc | |
