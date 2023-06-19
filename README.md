@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=2i67Qhff_pI - Generating Java Entity Code using 
 
 | Library  | POM Artifact  | Description | Link |
 | :------------ |:---------------:| -----:|-----:|
-| DRUL Library [i.e. Drools] | | Role Based Access Control - Excel Based | |
+| DRUL Library [i.e. Drools] | | Role Based Access Control - Excel Based | Also check KIE Api [org.kie] |
 | SPRING CLOUD CONFIG |spring-cloud-config-server | Local Configuration Management via .properties file -- In Other projects need to use "spring-cloud-starter-config" artifact to do configuration based on .properties file | |
 | ZUUL |spring-cloud-starter-netflix-zuul | Cookie | |
 | Spring Session | spring-session-core | Storing Session into db | |
