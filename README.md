@@ -92,3 +92,4 @@ https://www.youtube.com/watch?v=2i67Qhff_pI - Generating Java Entity Code using 
 | Spring REST Docs | | Replacement of Swagger | |
 | Spring Flo | | basic embeddable HTML5 visual builder for pipelines and simple graphs | |
 | Spring Integration |spring-boot-starter-integration | Implementation of most of the Enterprise Integration Patterns like sFTP, etc | |
+| Jasper Report | net.sf.jasperreports | For PDF Creation at runtime, for table use jPDF api | |
