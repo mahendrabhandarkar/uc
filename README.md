@@ -83,7 +83,7 @@ https://www.baeldung.com/spring-mvc-themes - Spring MVC Themes <br />
 | ZUUL |spring-cloud-starter-netflix-zuul | Cookie | |
 | Spring Session | spring-session-core | Storing Session into db | |
 | Logstash Logback Encoder| logstash-logback-encoder|  | |
-| OpenFeign| spring-cloud-starter-openfeign| It doesn't require complete implementation of api call. It help us to call api by just defining functionName, although restTemplate required full implementation of api call | |
+| OpenFeign| spring-cloud-starter-openfeign| It doesn't require complete implementation of api call. It help us to call api by just defining functionName, although restTemplate required full implementation of api call | To configure feign client for special type data exchange like SOAP, etc, you need to override @bean and use it in configuration field.|
 | oauth2 | spring-boot-starter-oauth2-client | | We need to use "spring-boot-starter-oauth2-resource-server" in BE service while calling it in FE. OAuth2 help us to define protocol which we are going to use while exchanging token. JWT is used for defining token structure and OAUTH2 is used for defining protocol used while exchange token data. As JWT is stateless and OAUTH2 API is used to exchange authorization between two different services like HR and Banking service. Main difference between OAuth2 and OpenID Connect is that OAuth2 is only concerned with authorization, while OpenID Connect is also concerned with authentication. It uses JSESSIONID to exchange data. https://en.wikipedia.org/wiki/OAuth |
 |mapstruct| | For Converting DAO to Entity or vice-versa||
 |jasypt| |For Password Encryption| |
