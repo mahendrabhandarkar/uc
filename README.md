@@ -78,13 +78,13 @@ https://www.baeldung.com/spring-mvc-themes - Spring MVC Themes <br />
 
 | Library  | POM Artifact  | Description | Link |
 | :------------ |:---------------:| -----:|-----:|
-| DRUL Library [i.e. Drools] | | Role Based Access Control - Excel Based | Also check KIE Api [org.kie] |
+| DRUL Library [i.e. Drools] | | Role Based Access Control - Excel Based | Used in DOP, Rule Engine - https://www.tutorialspoint.com/drools/drools_sample_drools_program.htm ; Also check KIE Api [org.kie] |
 | SPRING CLOUD CONFIG |spring-cloud-config-server | Local Configuration Management via .properties file -- In Other projects need to use "spring-cloud-starter-config" artifact to do configuration based on .properties file | |
 | ZUUL |spring-cloud-starter-netflix-zuul | Cookie | |
 | Spring Session | spring-session-core | Storing Session into db | |
 | Logstash Logback Encoder| logstash-logback-encoder|  | |
 | OpenFeign| spring-cloud-starter-openfeign| It doesn't require complete implementation of api call. It help us to call api by just defining functionName, although restTemplate required full implementation of api call | To configure feign client for special type data exchange like SOAP, etc, you need to override @bean and use it in configuration field.|
-| oauth2 | spring-boot-starter-oauth2-client | | We need to use "spring-boot-starter-oauth2-resource-server" in BE service while calling it in FE. OAuth2 help us to define protocol which we are going to use while exchanging token. JWT is used for defining token structure and OAUTH2 is used for defining protocol used while exchange token data. As JWT is stateless and OAUTH2 API is used to exchange authorization between two different services like HR and Banking service. Main difference between OAuth2 and OpenID Connect is that OAuth2 is only concerned with authorization, while OpenID Connect is also concerned with authentication. It uses JSESSIONID to exchange data. https://en.wikipedia.org/wiki/OAuth |
+| oauth2 | spring-boot-starter-oauth2-client | | We need to use "spring-boot-starter-oauth2-resource-server" in BE service while calling it in FE. OAuth2 help us to define protocol which we are going to use while exchanging token. JWT is used for defining token structure and OAUTH2 is used for defining protocol used while exchange token data. As JWT is stateless and OAUTH2 API is used to exchange authorization between two different services like HR and Banking service. Main difference between OAuth2 and OpenID Connect is that OAuth2 is only concerned with authorization, while OpenID Connect is also concerned with authentication. It uses JSESSIONID to exchange data. https://en.wikipedia.org/wiki/OAuth ; Register Credentials|
 |mapstruct| | For Converting DAO to Entity or vice-versa||
 |jasypt| |For Password Encryption| |
 |Spring Vault| |Spring Cloud Vault allows applications to access secrets stored in a Vault instance in a transparent way| |
