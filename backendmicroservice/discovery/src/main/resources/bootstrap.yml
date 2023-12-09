@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: com-ks-discovery
-  cloud:
-    config:
-      url:
-        - http://localhost:8888

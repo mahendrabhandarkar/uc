@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: com-ks-apigateway
-  cloud:
-    config:
-      url:
-        - http://localhost:8888
